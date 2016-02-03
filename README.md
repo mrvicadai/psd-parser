@@ -1,4 +1,4 @@
-to run the script, doing the following:
+to run the script, execute the following:
 
 ```bash
 npm install && node index.js
